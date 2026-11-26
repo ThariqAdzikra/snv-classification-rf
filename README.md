@@ -101,7 +101,7 @@ snv-classification-rf/
 ### 2. Instalasi Lingkungan
 ```bash
 # Salin repositori
-git clone https://github.com/USERNAME/snv-classification-rf.git
+git clone https://github.com/ThariqAdzikra/snv-classification-rf.git
 cd snv-classification-rf
 
 # Buat dan aktifkan virtual environment
