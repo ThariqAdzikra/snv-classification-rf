@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Genomic Datasets & Data Folders (Large Files)
+data/
+*/data/
+Lampiran_Skripsi/
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.gz
+*.gz.tbi
+*.tsv
+*.csv
+*.parquet
+*.feather
+*.h5
+
+# Model Checkpoints & Serialized Artifacts
+*.joblib
+*.pkl
+*.pickle
+checkpoint_*
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
